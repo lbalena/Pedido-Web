@@ -46,7 +46,7 @@ namespace PedidoWeb.Data_Type
         public void AddIngrediente(string ingrediente)
         {
             Ingrediente i = new Ingrediente();
-            i.Ingrediente = ingrediente;
+            i.Ing = ingrediente;
             this.Ingredientes.Add(i);
         }
     }

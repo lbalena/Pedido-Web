@@ -29,11 +29,11 @@ namespace PedidoWeb.Data_Type
             set { this.end = value; }
         }
 
-        public Cliente(string nome, string tel, Endereco end)
+        public Cliente(string nome, string tel)
         {
             Nome = nome;
             Tel = tel;
-            End = end;
+            End = null;
         }
     }
 }

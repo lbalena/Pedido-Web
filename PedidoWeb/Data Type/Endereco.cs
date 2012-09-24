@@ -7,12 +7,15 @@ namespace PedidoWeb.Data_Type
 {
     class Endereco
     {
+        #region atributos
         private string logradouro;
         private string end;
         private string num;
         private string referencia;
         private string cep;
+        #endregion
 
+        #region acessadores/modificadores
         public string Logradouro
         {
             get { return logradouro; }
@@ -42,8 +45,11 @@ namespace PedidoWeb.Data_Type
             get { return cep; }
             set { this.cep = value; }
         }
+        #endregion
 
-        public Endereco() { 
+        #region construtores
+        public Endereco() {
         }
+        #endregion
     }
 }

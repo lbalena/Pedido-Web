@@ -12,18 +12,18 @@ namespace PedidoWeb.Data_Type
             get { return id; }
             set { id = value; }
         }
-        private string ingrediente;
-        public string Ingrediente
+        private string ing;
+        public string Ing
         {
             get
-            { return ingrediente; }
+            { return ing; }
             set
-            { ingrediente = value; }
+            { ing = value; }
         }
         public Ingrediente()
         {
             this.Id = 0;
-            this.Ingrediente = null;
+            this.Ing = null;
         }
     }
 }

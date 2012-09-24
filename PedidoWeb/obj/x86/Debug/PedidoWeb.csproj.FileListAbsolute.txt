@@ -1,0 +1,9 @@
+C:\Users\Balena\Documents\GitHub\Pedido-Web\PedidoWeb\bin\Debug\PedidoWeb.exe
+C:\Users\Balena\Documents\GitHub\Pedido-Web\PedidoWeb\bin\Debug\PedidoWeb.pdb
+C:\Users\Balena\Documents\GitHub\Pedido-Web\PedidoWeb\obj\x86\Debug\ResolveAssemblyReference.cache
+C:\Users\Balena\Documents\GitHub\Pedido-Web\PedidoWeb\obj\x86\Debug\PedidoWeb.Properties.Resources.resources
+C:\Users\Balena\Documents\GitHub\Pedido-Web\PedidoWeb\obj\x86\Debug\GenerateResource.read.1.tlog
+C:\Users\Balena\Documents\GitHub\Pedido-Web\PedidoWeb\obj\x86\Debug\GenerateResource.write.1.tlog
+C:\Users\Balena\Documents\GitHub\Pedido-Web\PedidoWeb\obj\x86\Debug\PedidoWeb.exe
+C:\Users\Balena\Documents\GitHub\Pedido-Web\PedidoWeb\obj\x86\Debug\PedidoWeb.pdb
+C:\Users\Balena\Documents\GitHub\Pedido-Web\PedidoWeb\obj\x86\Debug\PedidoWeb.Form1.resources
